@@ -1,1 +1,14 @@
+spring:
+  application:
+    name: pastebin-authentication-service
+  rabbitmq:
+    host: rabbitmq
+    port: 5672
+    username: pastebin_user
+    password: pastebin_password
 
+server:
+  port: 8084
+  error:
+    whitelabel:
+      enabled: false

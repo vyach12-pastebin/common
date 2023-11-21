@@ -1,4 +1,4 @@
-package com.pastebin.common.dto;
+package com.pastebin.transfercontract.dto;
 
 import lombok.Data;
 
